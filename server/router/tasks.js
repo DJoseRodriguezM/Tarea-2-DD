@@ -12,5 +12,11 @@ TasksRouter.get('/:id', TasksController.getTask)
 // POST crear una tarea
 TasksRouter.post('/', TasksController.createTask)
 
+// PUT actualizar una tarea
+TasksRouter.put('/:id', TasksController.updateTask)
+
+// DELETE eliminar una tarea
+TasksRouter.delete('/:id', TasksController.deleteTask)
+
 
 export default TasksRouter
