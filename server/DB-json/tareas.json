@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Comprar alimentos",
+        "descripcion": "Comprar frutas, verduras y carne para la semana",
+        "completada": false,
+        "fecha_creacion": "2023-11-01T10:30:00Z"
+    },
+    {
+        "id": 2,
+        "titulo": "Estudiar para el examen",
+        "descripcion": "Revisar el material de matemáticas y resolver ejercicios",
+        "completada": false,
+        "fecha_creacion": "2023-11-01T12:00:00Z"
+    },
+    {
+        "id": 3,
+        "titulo": "Limpiar la casa",
+        "descripcion": "Limpieza profunda de la sala y cocina",
+        "completada": true,
+        "fecha_creacion": "2023-10-29T08:45:00Z"
+    }
+]
